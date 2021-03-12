@@ -14,11 +14,12 @@
   }
   .btn {
     display: inline-block;
-    background: #D42990;
+    background: #fafafa;
     padding: 10px 16px;
     border-radius: 10px;
     margin-top: 20px;
     font-weight: 500;
+    color :#000;
   }
   .logo{
     width: 70%;
